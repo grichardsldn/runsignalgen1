@@ -1,2 +1,2 @@
 # runsignalgen1
-gh pages repo for signalgen1
+Signalgen1 is hosted here.
